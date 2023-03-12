@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MidiPlayerTest.testPrintAllInstruments" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="MidiPlayer.test" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.personal.piano.instruments.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="com.personal.piano.player" />
+    <option name="MAIN_CLASS_NAME" value="com.personal.piano.player.MidiPlayerTest" />
+    <option name="METHOD_NAME" value="testPrintAllInstruments" />
+    <option name="TEST_OBJECT" value="method" />
+    <option name="PARAMETERS" value="" />
+    <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

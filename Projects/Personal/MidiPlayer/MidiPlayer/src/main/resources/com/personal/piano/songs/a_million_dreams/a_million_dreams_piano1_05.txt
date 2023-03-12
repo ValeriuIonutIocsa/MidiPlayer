@@ -1,0 +1,53 @@
+on 0 INST_PIANO_1 D5 120
+wait 150
+off 0 INST_PIANO_1 D5 45
+
+wait 100
+
+on 0 INST_PIANO_1 G3 80
+on 0 INST_PIANO_1 D4 80
+
+on 0 INST_PIANO_1 D5 120
+wait 400
+off 0 INST_PIANO_1 D5 45
+
+wait 100
+
+on 0 INST_PIANO_1 G5 120
+wait 150
+off 0 INST_PIANO_1 G5 45
+
+wait 100
+
+on 0 INST_PIANO_1 G5 120
+wait 400
+off 0 INST_PIANO_1 G5 45
+
+wait 100
+
+on 0 INST_PIANO_1 A5 120
+wait 150
+off 0 INST_PIANO_1 A5 45
+
+wait 100
+
+on 0 INST_PIANO_1 A5 120
+wait 600
+off 0 INST_PIANO_1 A5 45
+
+wait 50
+
+on 0 INST_PIANO_1 B5 120
+wait 150
+off 0 INST_PIANO_1 B5 45
+
+wait 100
+
+on 0 INST_PIANO_1 B5 120
+wait 400
+off 0 INST_PIANO_1 B5 45
+
+off 0 INST_PIANO_1 G3 40
+off 0 INST_PIANO_1 D4 40
+
+wait 300

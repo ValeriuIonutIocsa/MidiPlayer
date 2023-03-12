@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MidiParserTest.testParse" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="MidiPlayer.test" />
+    <useClassPathOnly />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.personal.piano.parser.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="com.personal.piano.parser" />
+    <option name="MAIN_CLASS_NAME" value="com.personal.piano.parser.MidiParserTest" />
+    <option name="METHOD_NAME" value="testParse" />
+    <option name="TEST_OBJECT" value="method" />
+    <option name="PARAMETERS" value="" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

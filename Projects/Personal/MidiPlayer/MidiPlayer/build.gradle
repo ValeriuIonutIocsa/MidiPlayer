@@ -1,0 +1,14 @@
+ext {
+    mainClass = 'com.personal.piano.AppStartMidiPlayer'
+    projectVersion = '1.0.0'
+
+    subProjectNames = [
+            ':data-types'
+    ]
+    compileClassPaths = []
+    compileJarFilePaths = []
+    testCompileClassPaths = []
+    testCompileJarFilePaths = []
+}
+
+apply from: gradle.ext.rootDirPath + '/common_build.gradle'
